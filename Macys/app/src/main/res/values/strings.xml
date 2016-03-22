@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SD Scanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="scanner_service_started">Scanner Service Started</string>
+</resources>

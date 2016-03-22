@@ -1,0 +1,3 @@
+http://stackoverflow.com/questions/11482204/how-to-recursively-scan-directories-in-android
+
+http://stackoverflow.com/questions/13800667/how-to-scan-sd-card-for-particular-extension-of-files-in-android
